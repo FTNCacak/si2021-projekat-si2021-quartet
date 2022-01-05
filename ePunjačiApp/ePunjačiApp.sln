@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ePujnačiData", "ePujiačiData\ePujnačiData.csproj", "{F9FD6514-4AB5-49EA-BC6E-347725A92E93}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shered", "Shered\Shered.csproj", "{664E58D4-D086-4D35-BB1E-C733A4B9C5F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9FD6514-4AB5-49EA-BC6E-347725A92E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9FD6514-4AB5-49EA-BC6E-347725A92E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9FD6514-4AB5-49EA-BC6E-347725A92E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9FD6514-4AB5-49EA-BC6E-347725A92E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{664E58D4-D086-4D35-BB1E-C733A4B9C5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664E58D4-D086-4D35-BB1E-C733A4B9C5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664E58D4-D086-4D35-BB1E-C733A4B9C5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664E58D4-D086-4D35-BB1E-C733A4B9C5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89E58938-3661-4E91-99CA-DF7344567233}
+	EndGlobalSection
+EndGlobal
