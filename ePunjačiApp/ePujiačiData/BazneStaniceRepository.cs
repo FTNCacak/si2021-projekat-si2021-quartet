@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ePujiačiData
+namespace ePunjačiData
 {
     public class BazneStaniceRepository : IBazneStaniceRepository
     {
@@ -24,10 +24,12 @@ namespace ePujiačiData
                 {
                     while (dataReader.Read())
                     {
-                        BaznaStanica bs = new BaznaStanica();
-                        bs.Id_stanice = dataReader.GetString(0);
-                        bs.Naziv = dataReader.GetString(1);
-                        bs.Adresa = dataReader.GetString(2);
+                        BaznaStanica bs = new BaznaStanica
+                        {
+                            Id_stanice = dataReader.GetString(0),
+                            Naziv = dataReader.GetString(1),
+                            Adresa = dataReader.GetString(2)
+                        };
 
                         listaBS.Add(bs);
                     }
@@ -47,6 +49,6 @@ namespace ePujiačiData
             return BaseConnection.ExecuteNonQuerySqlCommand(query);
         }
     public bool ObrišiBaznaStanica(string id_stanice)
-    => BaseConnection.ExecuteNonQuerySqlCommand($"delete from bazne_stanice Id_stanice = {id_stanice}");
+    => BaseConnection.ExecuteNonQuerySqlCommand($"delete from bazne_stanice where Id_stanice = {id_stanice}");
     }
 }

@@ -475,9 +475,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pseudo_Languages\\Desktop\\SI project\\ePunjačiApp\\ePujiačiData\\ePujiačiData.csproj",
-      "projectName": "ePujiačiData",
-      "projectPath": "C:\\Users\\Pseudo_Languages\\Desktop\\SI project\\ePunjačiApp\\ePujiačiData\\ePujiačiData.csproj",
+      "projectUniqueName": "C:\\Users\\Pseudo_Languages\\Desktop\\SI project\\ePunjačiApp\\ePujiačiData\\ePujnačiData.csproj",
+      "projectName": "ePujnačiData",
+      "projectPath": "C:\\Users\\Pseudo_Languages\\Desktop\\SI project\\ePunjačiApp\\ePujiačiData\\ePujnačiData.csproj",
       "packagesPath": "C:\\Users\\Pseudo_Languages\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pseudo_Languages\\Desktop\\SI project\\ePunjačiApp\\ePujiačiData\\obj\\",
       "projectStyle": "PackageReference",

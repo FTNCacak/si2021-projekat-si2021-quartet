@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ePujiačiData.Constant
+namespace ePunjačiData.Constant
 {
     public class Constant
     {

@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Text;
 
-namespace ePujiačiData
+namespace ePunjačiData
 {
     class KorisniciRepository : IKorisniciRepository
     {
@@ -21,12 +21,14 @@ namespace ePujiačiData
                 {
                     while (dataReader.Read())
                     {
-                        Korisnik korisnik = new Korisnik();
-                        korisnik.JMBG = dataReader.GetInt32(0);
-                        korisnik.Ime = dataReader.GetString(1);
-                        korisnik.Prezime = dataReader.GetString(2);
-                        korisnik.Broj_telefona = dataReader.GetString(3);
-                        korisnik.Email = dataReader.GetString(4);
+                        Korisnik korisnik = new Korisnik
+                        {
+                            JMBG = dataReader.GetInt32(0),
+                            Ime = dataReader.GetString(1),
+                            Prezime = dataReader.GetString(2),
+                            Broj_telefona = dataReader.GetString(3),
+                            Email = dataReader.GetString(4)
+                        };
                         listaKorisnici.Add(korisnik);
                     }
                 }
@@ -45,7 +47,7 @@ namespace ePujiačiData
             return BaseConnection.ExecuteNonQuerySqlCommand(query);
         }
         public bool ObrišiKorisnik(string jmbg)
-        => BaseConnection.ExecuteNonQuerySqlCommand($"delete from korisnici JMBG= {jmbg}");
+        => BaseConnection.ExecuteNonQuerySqlCommand($"delete from korisnici where JMBG= {jmbg}");
 
     }
 }

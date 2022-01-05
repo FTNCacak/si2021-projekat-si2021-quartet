@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tr5R6aXqDs5MsktGE7nw9Y16sLkakCvxcXfaZlcpsW3sJbz0YSQK2nD8iYUf/panR9DG7FiqxwNaDKLRfOPGqA==",
+  "dgSpecHash": "2BlGBEf5ZWLQ3hVpGYY7PXcP/5jX+dn2YXSwgO3AaDZGsqjGruMTxSMpzmNedar7gw51v/I6j509/5olaYXjeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pseudo_Languages\\Desktop\\SI project\\ePunjačiApp\\ePujiačiData\\ePujiačiData.csproj",
+  "projectFilePath": "C:\\Users\\Pseudo_Languages\\Desktop\\SI project\\ePunjačiApp\\ePujiačiData\\ePujnačiData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pseudo_Languages\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Pseudo_Languages\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

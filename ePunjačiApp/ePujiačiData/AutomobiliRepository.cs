@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Text;
 
-namespace ePujiačiData
+namespace ePunjačiData
 {
     class AutomobiliRepository : IAutomobiliRepository
     {
