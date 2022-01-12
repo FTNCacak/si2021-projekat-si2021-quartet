@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* Home Page */
+
+.c1 {
+    padding: 20px 0;
+}
+
+.box-home {
+    padding: 10px 0;
+}
+
+.textBox-home {
+    text-align: center;
+    color: #333333;
+}
+
+.textBox-home h1 {
+    font-size: 35px;
+}
+
+.textBox-home p {
+    font-size: 17px;
+}
+
+.mapBox-home #map {
+    height: 400px;
+    width: 100%;
+    border-radius: 15px;
+}
+
+.objectBox-home {
+    color: #333333;
+}
+
+.objectBox-home .row {
+    text-align: center;
+    padding: 10px 0;
+}
+
+.objectBox-home .row .col-sm {
+    padding: 10px 0;
+}
+
+.objectBox-home .row .col-sm img {
+    width: 150px;
+ }
+
+.objectBox-home .row .col-sm h3 {
+    margin: 10px 0;
+}
+
+.infoBox-home .card .row .col-md-8 .card-body .btn {
+    font-weight: bold;
+    text-decoration: none;
+    padding: 0;
+}

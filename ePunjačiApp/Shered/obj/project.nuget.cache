@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "op/Je95lFvy/bDLby7JBmnzXZPJ5ltZmvH6p7OU8vv4uR9bpgmevnFZwUjClgCGhDqZqtkn7mzihIwu8uPpjbQ==",
+  "success": true,
+  "projectFilePath": "D:\\Fakultet\\SI\\PlugShareKG_PROJECT\\ePunjačiApp\\Shered\\Shered.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CodeOne\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\CodeOne\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\CodeOne\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

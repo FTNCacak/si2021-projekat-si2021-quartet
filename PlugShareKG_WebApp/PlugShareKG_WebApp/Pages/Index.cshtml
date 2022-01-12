@@ -1,0 +1,131 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+
+<div class="c1">
+   <div class="textBox-home box-home">
+      <h1>Find Then Get Charge Your Car Fast</h1>
+      <p>
+         You can charge your electric vehicle at several locations in
+         Kragujevac
+      </p>
+   </div>
+   <div class="mapBox-home box-home">
+      <div id="map"></div>
+   </div>
+   <div class="objectBox-home box-home">
+      <div class="row">
+         <div class="col">
+            <h2>Rest and charge the car</h2>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-sm">
+            <img
+               src="https://i.ibb.co/QHWPMQh/toalet.png"
+               class="img-fluid"
+               alt="..."
+               />
+            <h3>toalet</h3>
+         </div>
+         <div class="col-sm">
+            <img
+               src="https://i.ibb.co/J2mP3Jd/coffee.png"
+               class="img-fluid"
+               alt="..."
+               />
+            <h3>coffee shop</h3>
+         </div>
+         <div class="col-sm">
+            <img
+               src="https://i.ibb.co/pWVGgQx/store.png"
+               class="img-fluid"
+               alt="..."
+               />
+            <h3>store</h3>
+         </div>
+         <div class="col-sm">
+            <img
+               src="https://i.ibb.co/XtLtZv7/park.png"
+               class="img-fluid"
+               alt="..."
+               />
+            <h3>park</h3>
+         </div>
+      </div>
+   </div>
+   <div class="infoBox-home box-home">
+      <div class="card mb-3">
+         <div class="row g-0">
+            <div class="col-md-4">
+               <img
+                  src="https://images.unsplash.com/photo-1615903214534-582a77a2a85e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80"
+                  class="img-fluid rounded-start"
+                  alt="..."
+                  />
+            </div>
+            <div class="col-md-8 m-auto">
+               <div class="card-body">
+                  <h5 class="card-title">Cheaper Than Gas</h5>
+                  <p class="card-text">
+                     The goal of the Supercharger network is to enable freedom of
+                     travel for electric-car owners at a fraction of the cost of
+                     gasoline. Reduce your cost per mile and never pay for gas
+                     again.
+                  </p>
+                  <a class="btn nav-item" asp-area="" asp-page="/Stations"
+                     >Stations <i class="fas fa-chevron-right"></i
+                     ></a>
+                  <p class="card-text mt-5">
+                     <small class="text-muted"
+                        >Kragujevac, Serbia <i class="fas fa-map-marker-alt"></i
+                        ></small>
+                  </p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="btnNavigator-home box-home">
+      <a type="button" class="btn btn-success btn-lg nav-item" asp-area="" asp-page="/Stations">
+      Start Charging <i class="fas fa-charging-station"></i>
+      </a>
+   </div>
+</div>
+
+<!-- Google Map API JS > -->
+<script>
+   // Initialize and add the map
+   function initMap() {
+     // The location of Uluru
+     const uluru = { lat: 44.011098194657244, lng: 20.903775324840986 };
+     // The map, centered at Uluru
+     const map = new google.maps.Map(document.getElementById("map"), {
+       zoom: 14,
+       center: uluru,
+     });
+     //All markers
+     let m1 = {lat: 44.00829642244818, lng: 20.89614632228101}
+     let m2 = {lat: 44.00468927128509, lng: 20.903001569305907}
+     let m3 = {lat: 44.015809701387035, lng: 20.923065244994202}
+     // The marker, positioned at Uluru
+     const marker1 = new google.maps.Marker({
+       position: m1,
+       map: map,
+     });
+     const marker2 = new google.maps.Marker({
+       position: m2,
+       map: map,
+     });
+     const marker3 = new google.maps.Marker({
+       position: m3,
+       map: map,
+     });
+     }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=@(ViewData["MyKey"])&callback=initMap&v=weekly" async></script>
+<!-- Google Map API JS < -->
