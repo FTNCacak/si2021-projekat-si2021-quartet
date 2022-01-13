@@ -1,0 +1,14 @@
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Business\bin\Debug\netcoreapp3.1\ePujnačiData.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Business\bin\Debug\netcoreapp3.1\Shered.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Business\bin\Debug\netcoreapp3.1\ePujnačiData.pdb
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Business\bin\Debug\netcoreapp3.1\Shered.pdb
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Business\obj\Debug\netcoreapp3.1\Business.pdb
