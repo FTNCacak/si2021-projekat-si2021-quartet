@@ -1,0 +1,4 @@
+C:\Users\Nemanja Riznić\Desktop\PROJEKAT\PlugShareKGBusiness\ePunjačiData\bin\Debug\netcoreapp3.1\Shered.dll
+C:\Users\Nemanja Riznić\Desktop\PROJEKAT\PlugShareKGBusiness\ePunjačiData\obj\Debug\netcoreapp3.1\ePunjačiData.csprojAssemblyReference.cache
+C:\Users\Nemanja Riznić\Desktop\PROJEKAT\PlugShareKGBusiness\ePunjačiData\obj\Debug\netcoreapp3.1\ePunjačiData.AssemblyInfoInputs.cache
+C:\Users\Nemanja Riznić\Desktop\PROJEKAT\PlugShareKGBusiness\ePunjačiData\obj\Debug\netcoreapp3.1\ePunjačiData.AssemblyInfo.cs
