@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.222
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlugShareKGBusiness", "PlugShareKGBusiness\PlugShareKGBusiness.csproj", "{45FF98D0-6F73-4CBE-B61A-9274E50A2B14}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "..\..\jdsjj\ePunjačiApp\Business\Business.csproj", "{CDCDB0B7-D05B-4F55-98DD-97B235156E85}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shered", "..\..\jdsjj\ePunjačiApp\Shered\Shered.csproj", "{F8F7CEFA-4620-4125-B367-9F816924CD2D}"
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{45FF98D0-6F73-4CBE-B61A-9274E50A2B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{45FF98D0-6F73-4CBE-B61A-9274E50A2B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{45FF98D0-6F73-4CBE-B61A-9274E50A2B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{45FF98D0-6F73-4CBE-B61A-9274E50A2B14}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CDCDB0B7-D05B-4F55-98DD-97B235156E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CDCDB0B7-D05B-4F55-98DD-97B235156E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDCDB0B7-D05B-4F55-98DD-97B235156E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
