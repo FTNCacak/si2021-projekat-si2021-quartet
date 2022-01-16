@@ -1,0 +1,103 @@
+﻿
+@page
+@model WebApplication.Pages.StationsModel
+@{
+    ViewData["Title"] = "Stations page";
+}
+
+@using Business;
+@using Shered.BiznisInterfejsi;
+@using Shered.Modeli;
+
+<div class="text-center">
+    <h1 class="display-4 my-4">PlugShareKG</h1>
+</div>
+
+@{
+    IAutomobiliBusiness automobiliBusiness = new AutomobiliBusiness();
+    IKorisniciBusiness korisniciBusiness = new KorisniciBusiness();
+    IPriključciBusiness priključciBusiness = new PriključciBusiness();
+    IPunjačiBusiness punjačiBusiness = new PunjačiBusiness();
+    IBazneStaniceBusiness bazneStaniceBusiness = new BazneStaniceBusiness();
+    var automobili = automobiliBusiness.SviAutomobili();
+    var korisnici = korisniciBusiness.SviKorisnici();
+    var priključci = priključciBusiness.SviPriključci();
+    var punjači = punjačiBusiness.SviPunjači();
+    var bazneStanice = bazneStaniceBusiness.SveBazneStanice();
+
+    <div class="row">
+        @{
+            @*foreach (var a in automobili)
+            {
+                foreach (var k in korisnici)
+                {*@
+            foreach (var ii in priključci)
+            {
+                @*if (a.JMBG_korisnika == k.JMBG && a.Id_priključka == ii.Id_prik)
+                {*@
+
+                foreach (var i2 in punjači)
+                {
+                    if (ii.Id_punjača == i2.Id_punj)
+                    {
+                        foreach (var i3 in bazneStanice)
+                        {
+                            if (i2.Id_bazne_stanice == i3.Id_stanice)
+                            {
+
+                                <div class="col col-sm-6 col-md-4 col-lg-4">
+                                    <div class="card mb-3 text-center">
+                                        <div class="card-header">
+                                            <h6>Base Station </h6>
+                                            <h3>@i3.Naziv</h3>
+                                        </div>
+                                        <div class="card-body">
+                                            <p>Charger and Charging Power</p>
+                                            <h5 class="card-title">@i2.Id_punj, @i2.Snaga W</h5>
+                                            <p class="card-text">Plug: <b>@ii.Id_prik</b></p>
+                                            <h5>Status</h5>
+
+                                            @{
+                                                string ind = ii.Indikator ? "Available" : "Busy";
+                                                string Color = ii.Indikator ? "success" : "danger";
+
+                                                <button type="button" class="btn btn-lg btn-block btn-@Color" data-toggle="modal" data-target="#exampleModalCenter">
+                                                    @ind
+                                                </button>
+                                            }
+
+                                        </div>
+                                        <div class="card-footer text-muted"><p>Adress</p><b>@i3.Adresa</b></div>
+                                    </div>
+                                </div>
+                                @*}
+                                    }
+                                }*@
+                            }
+                        }
+                    }
+                }
+            } }
+    </div>
+}
+@*<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalCenterTitle">Naziv priključka: @ii.Id_prik</h5>
+
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+
+                </div>
+                <div class="modal-body">
+                    <p>Naziv: @i3.Naziv</p>
+                    <p>Adresa:@i3.Adresa</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>*@
