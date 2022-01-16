@@ -1,0 +1,71 @@
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\ePunjačiDesktopApp.exe
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\ePunjačiDesktopApp.deps.json
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\ePunjačiDesktopApp.runtimeconfig.json
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\ePunjačiDesktopApp.runtimeconfig.dev.json
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\ePunjačiDesktopApp.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\ePunjačiDesktopApp.pdb
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.csprojAssemblyReference.cache
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.Form1.resources
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.KorisnikControl.resources
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.Properties.Resources.resources
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.csproj.GenerateResource.cache
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.AssemblyInfoInputs.cache
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.AssemblyInfo.cs
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.pdb
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.genruntimeconfig.cache
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.BazneStaniceControl.resources
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.PunjačControl.resources
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.PriključciControl.resources
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.AutomobiliControl.resources
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.InformacijeControl.resources
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\ePujnačiData.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\Shered.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\Shered.pdb
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\ePujnačiData.pdb
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.csproj.CopyComplete
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\ePunjačiDesktopApp.exe
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\ePunjačiDesktopApp.deps.json
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\ePunjačiDesktopApp.runtimeconfig.json
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\ePunjačiDesktopApp.runtimeconfig.dev.json
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\ePunjačiDesktopApp.dll
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\ePunjačiDesktopApp.pdb
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\Business.dll
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\ePujnačiData.dll
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\Shered.dll
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\Business.pdb
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\Shered.pdb
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\bin\Debug\netcoreapp3.1\ePujnačiData.pdb
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.csproj.AssemblyReference.cache
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.AutomobiliControl.resources
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.BazneStaniceControl.resources
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.Form1.resources
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.InformacijeControl.resources
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.KorisnikControl.resources
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.PriključciControl.resources
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.Properties.Resources.resources
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.PunjačControl.resources
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.csproj.GenerateResource.cache
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.AssemblyInfoInputs.cache
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.AssemblyInfo.cs
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.csproj.CoreCompileInputs.cache
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.csproj.CopyComplete
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.dll
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.pdb
+D:\SI - project\ePunjačiApp\ePunjačiDesktopApp\obj\Debug\netcoreapp3.1\ePunjačiDesktopApp.genruntimeconfig.cache
