@@ -1,0 +1,12 @@
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePujiačiData\bin\Debug\netcoreapp3.1\ePujnačiData.deps.json
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePujiačiData\bin\Debug\netcoreapp3.1\ePujnačiData.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePujiačiData\bin\Debug\netcoreapp3.1\ePujnačiData.pdb
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePujiačiData\bin\Debug\netcoreapp3.1\Shered.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePujiačiData\bin\Debug\netcoreapp3.1\Shered.pdb
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePujiačiData\obj\Debug\netcoreapp3.1\ePujnačiData.csprojAssemblyReference.cache
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePujiačiData\obj\Debug\netcoreapp3.1\ePujnačiData.AssemblyInfoInputs.cache
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePujiačiData\obj\Debug\netcoreapp3.1\ePujnačiData.AssemblyInfo.cs
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePujiačiData\obj\Debug\netcoreapp3.1\ePujnačiData.csproj.CoreCompileInputs.cache
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePujiačiData\obj\Debug\netcoreapp3.1\ePujnačiData.csproj.CopyComplete
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePujiačiData\obj\Debug\netcoreapp3.1\ePujnačiData.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\ePujiačiData\obj\Debug\netcoreapp3.1\ePujnačiData.pdb

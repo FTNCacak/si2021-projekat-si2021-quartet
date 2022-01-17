@@ -1,0 +1,243 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\ePunjačiDesktopApp\\ePunjačiDesktopApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\Pseudo_Languages\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pseudo_Languages\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\ePujiačiData\\ePujnačiData.csproj": {
+                "projectPath": "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\ePujiačiData\\ePujnačiData.csproj"
+              },
+              "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\Shered\\Shered.csproj": {
+                "projectPath": "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\Shered\\Shered.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\ePujiačiData\\ePujnačiData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\ePujiačiData\\ePujnačiData.csproj",
+        "projectName": "ePujnačiData",
+        "projectPath": "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\ePujiačiData\\ePujnačiData.csproj",
+        "packagesPath": "C:\\Users\\Pseudo_Languages\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\ePujiačiData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pseudo_Languages\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\Shered\\Shered.csproj": {
+                "projectPath": "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\Shered\\Shered.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\ePunjačiDesktopApp\\ePunjačiDesktopApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\ePunjačiDesktopApp\\ePunjačiDesktopApp.csproj",
+        "projectName": "ePunjačiDesktopApp",
+        "projectPath": "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\ePunjačiDesktopApp\\ePunjačiDesktopApp.csproj",
+        "packagesPath": "C:\\Users\\Pseudo_Languages\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\ePunjačiDesktopApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pseudo_Languages\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\Business\\Business.csproj"
+              },
+              "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\Shered\\Shered.csproj": {
+                "projectPath": "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\Shered\\Shered.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\Shered\\Shered.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\Shered\\Shered.csproj",
+        "projectName": "Shered",
+        "projectPath": "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\Shered\\Shered.csproj",
+        "packagesPath": "C:\\Users\\Pseudo_Languages\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pseudo_Languages\\Desktop\\ePunjači\\ePunjačiApp\\Shered\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pseudo_Languages\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

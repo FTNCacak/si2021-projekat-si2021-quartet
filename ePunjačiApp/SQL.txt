@@ -1,0 +1,81 @@
+"Bazne stanice"
+
+CREATE TABLE [dbo].[bazne_stanice] (
+    [Id_stanice] NVARCHAR (10) NOT NULL,
+    [Naziv]      NVARCHAR (30) NOT NULL,
+    [Adresa]     NVARCHAR (50) NOT NULL,
+    CONSTRAINT [bs_pk] PRIMARY KEY CLUSTERED ([Id_stanice] ASC)
+);
+
+//Script
+INSERT INTO [dbo].[bazne_stanice] ([Id_stanice], [Naziv], [Adresa]) VALUES (N'BS001', N'Big Fashion 1', N'Kraljice Marije 56')
+INSERT INTO [dbo].[bazne_stanice] ([Id_stanice], [Naziv], [Adresa]) VALUES (N'BS002', N'Big Fashion 2', N'Kraljice Marije 56')
+INSERT INTO [dbo].[bazne_stanice] ([Id_stanice], [Naziv], [Adresa]) VALUES (N'BS003', N'Big Fashion 3', N'Kraljice Marije 56')
+
+
+"Punjači"
+
+CREATE TABLE [dbo].[punjači] (
+    [Id_punj]          NVARCHAR (10) NOT NULL,
+    [Id_bazne_stanice] NVARCHAR (10) NOT NULL,
+    [Snaga]            INT           NOT NULL,
+    CONSTRAINT [punjači_pk] PRIMARY KEY CLUSTERED ([Id_punj] ASC),
+    CONSTRAINT [bs_punj_fk] FOREIGN KEY ([Id_bazne_stanice]) REFERENCES [dbo].[bazne_stanice] ([Id_stanice])
+);
+
+//Script
+INSERT INTO [dbo].[punjači] ([Id_punj], [Id_bazne_stanice], [Snaga]) VALUES (N'CH001', N'BS001', 500)
+INSERT INTO [dbo].[punjači] ([Id_punj], [Id_bazne_stanice], [Snaga]) VALUES (N'CH002', N'BS002', 400)
+
+
+"Priključci"
+
+CREATE TABLE [dbo].[priključci] (
+    [Id_prik]    NVARCHAR (10) NOT NULL,
+    [Id_punjača] NVARCHAR (10) NULL,
+    [Indikator]  BIT           NOT NULL,
+    CONSTRAINT [priključci_pk] PRIMARY KEY CLUSTERED ([Id_prik] ASC),
+    CONSTRAINT [punj_prik_fk] FOREIGN KEY ([Id_punjača]) REFERENCES [dbo].[punjači] ([Id_punj])
+);
+
+//Script
+INSERT INTO [dbo].[priključci] ([Id_prik], [Id_punjača], [Indikator]) VALUES (N'PL001', N'CH001', 0)
+INSERT INTO [dbo].[priključci] ([Id_prik], [Id_punjača], [Indikator]) VALUES (N'PL002', N'CH002', 0)
+INSERT INTO [dbo].[priključci] ([Id_prik], [Id_punjača], [Indikator]) VALUES (N'PL003', N'CH002', 1)
+
+
+"Korisnici"
+
+CREATE TABLE [dbo].[korisnici] (
+    [JMBG]          INT           NOT NULL,
+    [Ime]           NVARCHAR (30) NOT NULL,
+    [Prezime]       NVARCHAR (30) NOT NULL,
+    [Broj_telefona] NVARCHAR (20) NOT NULL,
+    [Email]         NVARCHAR (50) NULL,
+    CONSTRAINT [korisnici_pk] PRIMARY KEY CLUSTERED ([JMBG] ASC)
+);
+
+//Script
+INSERT INTO [dbo].[korisnici] ([JMBG], [Ime], [Prezime], [Broj_telefona], [Email]) VALUES (2608921752818, N'Ana', N'Lalic', N'+381612631448', N'')
+INSERT INTO [dbo].[korisnici] ([JMBG], [Ime], [Prezime], [Broj_telefona], [Email]) VALUES (2801988782828, N'Borko', N'Lao', N'+381632651678', N'borla@gmail.com')
+
+
+"Automobili"
+
+CREATE TABLE [dbo].[automobili] (
+    [Broj_šasije]        NVARCHAR (15) NOT NULL,
+    [Id_priključka]      NVARCHAR (10) NOT NULL,
+    [JMBG_korisnika]     INT           NOT NULL,
+    [Marka]              NVARCHAR (20) NOT NULL,
+    [Tip]                NVARCHAR (20) NOT NULL,
+    [Kapacitet_baterije] INT           NOT NULL,
+    CONSTRAINT [automobili_pk] PRIMARY KEY CLUSTERED ([Broj_šasije] ASC),
+    CONSTRAINT [fk1] FOREIGN KEY ([Id_priključka]) REFERENCES [dbo].[priključci] ([Id_prik]),
+    CONSTRAINT [fk2] FOREIGN KEY ([JMBG_korisnika]) REFERENCES [dbo].[korisnici] ([JMBG])
+);
+
+
+//Script
+INSERT INTO [dbo].[automobili] ([Broj_šasije], [Id_priključka], [JMBG_korisnika], [Marka], [Tip], [Kapacitet_baterije]) VALUES (N'OYO5458A832T', N'PL003', 2608921752818, N'Toyota', N'GZ', 120)
+INSERT INTO [dbo].[automobili] ([Broj_šasije], [Id_priključka], [JMBG_korisnika], [Marka], [Tip], [Kapacitet_baterije]) VALUES (N'R99R993349K', N'PL002', 2801988782828, N'BMW', N'B ', 80)
+INSERT INTO [dbo].[automobili] ([Broj_šasije], [Id_priključka], [JMBG_korisnika], [Marka], [Tip], [Kapacitet_baterije]) VALUES (N'RF55667', N'PL001', 2801988782828, N'Tesla', N'KK', 80)
