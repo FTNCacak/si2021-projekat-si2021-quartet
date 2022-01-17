@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pseudo_Languages\\Desktop\\SI project\\ePunjačiApp\\ePujiačiData\\ePujnačiData.csproj",
+      "projectUniqueName": "C:\\Users\\Pseudo_Languages\\Desktop\\jdsjj\\ePunjačiApp\\ePujiačiData\\ePujnačiData.csproj",
       "projectName": "ePujnačiData",
-      "projectPath": "C:\\Users\\Pseudo_Languages\\Desktop\\SI project\\ePunjačiApp\\ePujiačiData\\ePujnačiData.csproj",
+      "projectPath": "C:\\Users\\Pseudo_Languages\\Desktop\\jdsjj\\ePunjačiApp\\ePujiačiData\\ePujnačiData.csproj",
       "packagesPath": "C:\\Users\\Pseudo_Languages\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pseudo_Languages\\Desktop\\SI project\\ePunjačiApp\\ePujiačiData\\obj\\",
+      "outputPath": "C:\\Users\\Pseudo_Languages\\Desktop\\jdsjj\\ePunjačiApp\\ePujiačiData\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pseudo_Languages\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -495,8 +495,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Pseudo_Languages\\Desktop\\SI project\\ePunjačiApp\\Shered\\Shered.csproj": {
-              "projectPath": "C:\\Users\\Pseudo_Languages\\Desktop\\SI project\\ePunjačiApp\\Shered\\Shered.csproj"
+            "C:\\Users\\Pseudo_Languages\\Desktop\\jdsjj\\ePunjačiApp\\Shered\\Shered.csproj": {
+              "projectPath": "C:\\Users\\Pseudo_Languages\\Desktop\\jdsjj\\ePunjačiApp\\Shered\\Shered.csproj"
             }
           }
         }

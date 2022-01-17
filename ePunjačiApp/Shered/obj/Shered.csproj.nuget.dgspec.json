@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pseudo_Languages\\Desktop\\SI project\\ePunjačiApp\\Shered\\Shered.csproj": {}
+    "C:\\Users\\Pseudo_Languages\\Desktop\\jdsjj\\ePunjačiApp\\Shered\\Shered.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pseudo_Languages\\Desktop\\SI project\\ePunjačiApp\\Shered\\Shered.csproj": {
+    "C:\\Users\\Pseudo_Languages\\Desktop\\jdsjj\\ePunjačiApp\\Shered\\Shered.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pseudo_Languages\\Desktop\\SI project\\ePunjačiApp\\Shered\\Shered.csproj",
+        "projectUniqueName": "C:\\Users\\Pseudo_Languages\\Desktop\\jdsjj\\ePunjačiApp\\Shered\\Shered.csproj",
         "projectName": "Shered",
-        "projectPath": "C:\\Users\\Pseudo_Languages\\Desktop\\SI project\\ePunjačiApp\\Shered\\Shered.csproj",
+        "projectPath": "C:\\Users\\Pseudo_Languages\\Desktop\\jdsjj\\ePunjačiApp\\Shered\\Shered.csproj",
         "packagesPath": "C:\\Users\\Pseudo_Languages\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pseudo_Languages\\Desktop\\SI project\\ePunjačiApp\\Shered\\obj\\",
+        "outputPath": "C:\\Users\\Pseudo_Languages\\Desktop\\jdsjj\\ePunjačiApp\\Shered\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pseudo_Languages\\AppData\\Roaming\\NuGet\\NuGet.Config",

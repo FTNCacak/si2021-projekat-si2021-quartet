@@ -7,3 +7,12 @@ C:\Users\Pseudo_Languages\Desktop\SI project\ePunjačiApp\Shered\obj\Debug\netco
 C:\Users\Pseudo_Languages\Desktop\SI project\ePunjačiApp\Shered\obj\Debug\netcoreapp3.1\Shered.csproj.CoreCompileInputs.cache
 C:\Users\Pseudo_Languages\Desktop\SI project\ePunjačiApp\Shered\obj\Debug\netcoreapp3.1\Shered.dll
 C:\Users\Pseudo_Languages\Desktop\SI project\ePunjačiApp\Shered\obj\Debug\netcoreapp3.1\Shered.pdb
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Shered\bin\Debug\netcoreapp3.1\Shered.deps.json
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Shered\bin\Debug\netcoreapp3.1\Shered.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Shered\bin\Debug\netcoreapp3.1\Shered.pdb
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Shered\obj\Debug\netcoreapp3.1\Shered.csprojAssemblyReference.cache
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Shered\obj\Debug\netcoreapp3.1\Shered.AssemblyInfoInputs.cache
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Shered\obj\Debug\netcoreapp3.1\Shered.AssemblyInfo.cs
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Shered\obj\Debug\netcoreapp3.1\Shered.csproj.CoreCompileInputs.cache
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Shered\obj\Debug\netcoreapp3.1\Shered.dll
+C:\Users\Pseudo_Languages\Desktop\jdsjj\ePunjačiApp\Shered\obj\Debug\netcoreapp3.1\Shered.pdb
